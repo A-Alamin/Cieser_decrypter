@@ -1,2 +1,2 @@
-# Cieser_decrypter
-Cieser decrypter is can be used to decrypt Cieser cipher.
+# Cieser_encrypter
+Cieser encrypter is can be used to encrypt Cieser cipher.
